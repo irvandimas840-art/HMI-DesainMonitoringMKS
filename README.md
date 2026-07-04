@@ -58,12 +58,12 @@ Haiwell Cloud SCADA (HMI)
 
 | Screen | Fungsi | Status |
 |--------|--------|--------|
-| **Overview** | Status seluruh sistem, animasi conveyor, counter per mesin | 🔄 80% |
-| **Global Manual** | Kontrol gate pneumatic per mesin + timer | 🔄 In Progress |
-| **Global Diagnostic** | Status komunikasi RPi (ONLINE/DELAY/OFFLINE) + timestamp | 🔄 80% |
-| **Maintenance Management** | Lock/unlock mesin untuk perbaikan/pembersihan | 🔄 In Progress |
-| **Emergency Stop** | Auto-tampil saat E-Stop fisik ditekan, shutdown total | 🔄 In Progress |
-| **Detail M1–M5** | Monitoring spesifik per mesin | ⏳ Belum mulai |
+| **Overview** | Status seluruh sistem, animasi conveyor, counter per mesin |✅ Selesai|
+| **Global Manual** | Kontrol gate pneumatic per mesin + timer | ✅ Selesai |
+| **Global Diagnostic** | Status komunikasi RPi (ONLINE/DELAY/OFFLINE) + timestamp | ✅ Selesai |
+| **Maintenance Management** | Lock/unlock mesin untuk perbaikan/pembersihan | ✅ Selesai |
+| **Emergency Stop** | Auto-tampil saat E-Stop fisik ditekan, shutdown total | ✅ Selesai |
+| **Detail M1–M5** | Monitoring spesifik per mesin | ✅ Selesai |
 
 ---
 
